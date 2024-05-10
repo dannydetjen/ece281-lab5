@@ -49,6 +49,8 @@
 --|    s_<signal name>          = state name
 --|
 --+----------------------------------------------------------------------------
+
+--TDM4.vhd
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use ieee.numeric_std.all;
